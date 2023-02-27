@@ -41,7 +41,6 @@ class StretchTimer:
         self.stop_button = None
         self.pause_button = None
 
-
     def create_ui(self):
         self.create_buttons()
         self.create_text()
